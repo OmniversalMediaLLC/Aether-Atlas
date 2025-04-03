@@ -1,4 +1,4 @@
 title: Aether Atlas
-description: Omniversal Media Domain Codex
+description: Dominascriptorum’s living domain ledger.
 theme: minima
-baseurl: "/Aether-Atlas" # important if you're using the docs folder
+baseurl: ""  # Leave blank since you're using a custom domain
