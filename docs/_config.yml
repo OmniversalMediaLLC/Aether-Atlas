@@ -29,3 +29,10 @@ timezone: America/Chicago
 # Optional future extras
 future: true
 include: [".well-known", "_pages"]
+
+# Custom stylesheet
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
