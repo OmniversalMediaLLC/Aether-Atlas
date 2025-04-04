@@ -3,6 +3,8 @@ layout: default
 title: Aether Atlas
 ---
 
+<img src="{{ '/assets/images/aether-atlas-banner.png' | relative_url }}" alt="Aether Atlas Banner" class="banner-img" />
+
 # Aether Atlas: Domain Control Panel
 
 Welcome to the official Atlas for **Omniversal Media’s** web of domains.  
@@ -12,7 +14,7 @@ From registrar records to active infrastructure files, this is your **living das
 
 ---
 
-## Domain Management Tools
+## 🔍 Domain Management Tools
 
 | File | Description |
 |------|-------------|
@@ -25,7 +27,7 @@ From registrar records to active infrastructure files, this is your **living das
 
 ---
 
-## About This Atlas
+## 🌐 About This Atlas
 
 This interface was built using:
 
@@ -35,18 +37,26 @@ This interface was built using:
 
 We will be expanding it soon with:
 
-- Status check dashboards  
-- API integrations for Cloudflare + Dynadot  
-- Domain renewal reminders  
-- SEO + DNS optimizations
+- Live search and table integration  
+- Domain status dashboards  
+- Auto-generated “Coming Soon” sites  
+- SEO-priming pages for every domain
 
 ---
 
-## Contributors
+## 🧭 Quick Links
+
+- [Omniversal Media](https://omniversalmedia.org)
+- [Reincarnated Store](https://reincarnated.store)
+- [Aether Core](https://aether.omniversalmedia.net)
+
+---
+
+## 🤝 Contributors
 
 Maintained by **Ethan Womack** (aka Hawk Eye)  
 Visit [OmniversalMedia.org](https://omniversalmedia.org)
 
 ---
 
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_ 
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_
