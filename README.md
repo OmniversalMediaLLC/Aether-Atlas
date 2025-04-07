@@ -59,3 +59,34 @@ git checkout -b reincarnated2resist
 cd reincarnated2resist
 npm install
 npm run dev
+```
+
+---
+
+## 📁 Structure
+
+```plaintext
+Aether-Atlas/
+├─ README.md                  # This file
+├─ docs/                      # Deployed site files (per branch)
+├─ src/                       # Shared components / logic if needed
+├─ reincarnated2resist/       # Merch + Resistance branch
+├─ hawkeyetherapper/          # Music + Narrative branch
+├─ omniversalmedia/           # Infrastructure + Core tools
+├─ startribe/                 # Forums + Community systems
+└─ symbolic-sphere/           # Mystical/theoretical expansion
+```
+
+---
+
+## ⚖ License
+
+**Omniversal Commons License**  
+Use freely for non-commercial, creative, and conscious development.  
+
+For commercial or redistribution inquiries, contact:  
+📨 [admin@omniversalmedia.cc](mailto:admin@omniversalmedia.cc)
+
+---
+
+> 🕊️ *"Everything is connected — and code is just the newest branch on the old tree of story."*
