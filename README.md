@@ -1,24 +1,28 @@
-# Atlas of Domains
+# Reincarnated2Resist.com  
+> *"We were born in the fire. We rise from the ashes."*
 
-This repository is a living log and control center for all domains within the Aether and Omniversal Media ecosystem.
+---
 
-## Overview
+## 🔥 About This Site
 
-- Tracks 70+ active domains
-- Managed across multiple registrars: Dynadot, DreamHost, SiteGround, Cloudflare, etc.
-- Automatically updated from a Jupyter notebook
+This is the official web presence for the **Reincarnated2Resist** movement — a call to awaken, resist, and rise. This site houses:
 
-## Files
+- 🔗 Our merch portal at [Reincarnated.Store](https://Reincarnated.Store)  
+- 📖 The #Reincarnated2Resist Manifesto and guiding vision  
+- 🎧 Audio, video, and visual archives from the underground  
+- 🕊️ Links to project branches like:
+  - [TheGoverningConspiracy.com](https://TheGoverningConspiracy.com)
+  - [ReverseThisCurse.com](https://ReverseThisCurse.com)
+  - [ReturnOfTheBirdTribes.com](https://ReturnOfTheBirdTribes.com)
 
-- `Domain_Tracker_Numbers.csv` – Editable Numbers/Dynadot CSV
-- `Domain_Tracker_Notebook.ipynb` – Jupyter interface for updates
-- `_config.yml` – GitHub Pages settings
-- `index.md` – Reference UI
+---
 
-## Goals
+## 📁 Folder Purpose
 
-- GitHub Pages + Cloudflare DNS integration
-- Jupyter → Git → Pages automation
-- Dominascriptorum integration
+This `/docs` folder contains the static files rendered as the website for **Reincarnated2Resist.com** via [GitHub Pages](https://pages.github.com/). It is structured as a self-contained static frontend — manually maintained and fully deployable.
 
-**Maintainer:** Hawk Eye / Ethan Womack
+To view locally:
+
+```bash
+# Serve the docs folder locally (optional)
+npx serve docs
