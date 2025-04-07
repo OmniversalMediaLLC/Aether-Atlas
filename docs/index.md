@@ -3,7 +3,7 @@ layout: default
 title: Aether Atlas
 ---
 
-<img src="{{ '/docs/assets/images/aether-atlas-banner.png' | relative_url }}" alt="Aether Atlas Banner" class="banner-img" />
+<img src="{{ '/assets/images/aether-atlas-banner.png' | relative_url }}" alt="Aether Atlas Banner" class="banner-img" />
 
 # Aether Atlas: Domain Control Panel
 
