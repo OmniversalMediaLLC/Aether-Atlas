@@ -1,16 +1,27 @@
-the-five-branches/
-├── README.md
-├── docs/                     # For GitHub Pages site (optional, but recommended)
-│   ├── index.html            # Placeholder homepage (eventually interactive map)
-│   ├── style.css             # Placeholder styles
-│   ├── assets/               # Logos, symbols, images
-│   │   ├── r2r-logo.png
-│   │   ├── hawkeye-logo.png
-│   │   ├── omniversal-logo.png
-│   │   ├── startribe-logo.png
-│   │   └── tree-map.svg      # The Aether Map or visual root/branch structure
-│   └── js/
-│       └── main.js           # Placeholder JS for interactive branching
-├── src/                      # (Optional) JS, Astro, or Markdown-based map data
-│   └── branches.json         # JSON data mapping branch names to domains + metadata
-└── LICENSE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Five Branches | Omniversal Aether</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>The Omniversal Aether 🌳</h1>
+  <p>"A Tree Linking the Five Spheres"</p>
+
+  <div id="map-container">
+    <img src="assets/tree-map.svg" alt="Aether Map" />
+  </div>
+
+  <ul>
+    <li><a href="https://reincarnated2resist.com">Reincarnated2Resist</a></li>
+    <li><a href="https://hawkeyetherapper.com">Hawk Eye The Rapper</a></li>
+    <li><a href="https://omniversalmedia.com">Omniversal Media</a></li>
+    <li><a href="https://startribe.omniversalmedia.org">StarTribe</a></li>
+    <li><a href="#">Fifth Sphere (Coming Soon)</a></li>
+  </ul>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
