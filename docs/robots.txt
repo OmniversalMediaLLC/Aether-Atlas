@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://atlas.omniversalmedia.info/sitemap.xml
