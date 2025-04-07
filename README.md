@@ -1,24 +1,61 @@
-# Atlas of Domains
+# 🌳 The Five Branches  
+**A Living Repository of the Omniversal Aether**  
+> *"From the roots of resistance to the canopy of creation—this tree is grown from code, consciousness, and purpose."*
 
-This repository is a living log and control center for all domains within the Aether and Omniversal Media ecosystem.
+---
 
-## Overview
+## 📜 Overview
 
-- Tracks 70+ active domains
-- Managed across multiple registrars: Dynadot, DreamHost, SiteGround, Cloudflare, etc.
-- Automatically updated from a Jupyter notebook
+**The Five Branches** represents the foundational framework of the **Omniversal Aether**, structured like a mythic tree connecting all spheres of our creative and technological ecosystem.
 
-## Files
+This branch serves as the **root trunk**, from which all other domain-specific branches evolve. Each branch aligns with one of five spheres:
 
-- `Domain_Tracker_Numbers.csv` – Editable Numbers/Dynadot CSV
-- `Domain_Tracker_Notebook.ipynb` – Jupyter interface for updates
-- `_config.yml` – GitHub Pages settings
-- `index.md` – Reference UI
+1. **Reincarnated2Resist** — Resistance, transformation, truth-seeking  
+2. **HawkEyeTheRapper** — Music, spoken word, narrative alchemy  
+3. **OmniversalMedia** — Infrastructure, hosting, publishing, tech  
+4. **StarTribe** — Community, forums, missions, shared vision  
+5. **(TBD)** — The final creative sphere (symbolic/visionary domain)
 
-## Goals
+---
 
-- GitHub Pages + Cloudflare DNS integration
-- Jupyter → Git → Pages automation
-- Dominascriptorum integration
+## 🌐 Branch Map
 
-**Maintainer:** Hawk Eye / Ethan Womack
+| Branch Name            | Description                                         | Purpose                         |
+|------------------------|-----------------------------------------------------|----------------------------------|
+| `reincarnated2resist`  | Activist merch, truth-themed projects & media       | Rebirth through resistance       |
+| `hawkeyetherapper`     | Music, visual storytelling, lyrical archives        | Voice of the Aether              |
+| `omniversalmedia`      | Core infrastructure for all sites/tools/platforms   | Hosting + DevOps                 |
+| `startribe`            | Collaborative projects, forums, user portals        | Collective consciousness         |
+| `symbolic-sphere`      | [Name Pending] Mytho-mystical & philosophical layer | Arcane + visionary expression    |
+
+---
+
+## 🧠 Philosophy
+
+This repo **is not just a dev space** — it's a **symbolic structure**, organizing our digital expression like **limbs of a living tree**.  
+
+- **Hawk Eye** and **Reincarnated2Resist** form the **trunk** — two trees, rooted in art and rebellion.  
+- The **branches** extend into every dimension of our work, each feeding from the same Omniversal source.
+
+---
+
+## 🛠 Development
+
+Each branch is used for a **specific domain, initiative, or product site**, with its own:
+- `/docs` folder for static site deployment (via GitHub Pages or Cloudflare Pages)
+- Custom builds (Astro, Next.js, JupyterLab, etc.)
+- Markdown-based documentation, components, and JSON data
+
+### 🌿 Local Workflow
+
+```bash
+git clone git@github.com:OmniversalMediaLLC/Aether-Atlas.git
+cd Aether-Atlas
+
+# Create and checkout a specific branch
+git checkout -b reincarnated2resist
+
+# Start your build process as needed
+cd reincarnated2resist
+npm install
+npm run dev
