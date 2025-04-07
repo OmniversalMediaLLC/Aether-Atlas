@@ -14,3 +14,9 @@ the-five-branches/
 ├── src/                      # (Optional) JS, Astro, or Markdown-based map data
 │   └── branches.json         # JSON data mapping branch names to domains + metadata
 └── LICENSE
+
+  /style.css
+  #aether-map {
+    display: block;
+    width: 100%;
+  }
