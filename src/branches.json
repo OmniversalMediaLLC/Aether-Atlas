@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Reincarnated2Resist",
+    "domain": "reincarnated2resist.com",
+    "description": "Merch, rebellion, truth-based projects",
+    "symbol": "assets/r2r-logo.png"
+  },
+  {
+    "name": "HawkEyeTheRapper",
+    "domain": "hawkeyetherapper.com",
+    "description": "Music, story, lyric portals",
+    "symbol": "assets/hawkeye-logo.png"
+  },
+  {
+    "name": "OmniversalMedia",
+    "domain": "omniversalmedia.com",
+    "description": "Core infrastructure, hosting, and platforms",
+    "symbol": "assets/omniversal-logo.png"
+  },
+  {
+    "name": "StarTribe",
+    "domain": "startribe.omniversalmedia.org",
+    "description": "Community, forums, collaborative spaces",
+    "symbol": "assets/startribe-logo.png"
+  },
+  {
+    "name": "TBD",
+    "domain": "",
+    "description": "To be revealed — the mystical fifth branch",
+    "symbol": ""
+  }
+]
