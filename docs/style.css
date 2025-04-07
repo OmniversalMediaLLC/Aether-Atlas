@@ -1,0 +1,16 @@
+the-five-branches/
+├── README.md
+├── docs/                     # For GitHub Pages site (optional, but recommended)
+│   ├── index.html            # Placeholder homepage (eventually interactive map)
+│   ├── style.css             # Placeholder styles
+│   ├── assets/               # Logos, symbols, images
+│   │   ├── r2r-logo.png
+│   │   ├── hawkeye-logo.png
+│   │   ├── omniversal-logo.png
+│   │   ├── startribe-logo.png
+│   │   └── tree-map.svg      # The Aether Map or visual root/branch structure
+│   └── js/
+│       └── main.js           # Placeholder JS for interactive branching
+├── src/                      # (Optional) JS, Astro, or Markdown-based map data
+│   └── branches.json         # JSON data mapping branch names to domains + metadata
+└── LICENSE
