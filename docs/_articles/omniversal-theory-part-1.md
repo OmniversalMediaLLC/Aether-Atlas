@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "The Map & The Myth – Hawkins' Omniversal Theory"
-permalink: /articles/omniversal-theory-part-1/
+layout: default
 description: "Exploring David R. Hawkins’ Map of Consciousness and its connection to Omniversal Media, Reincarnated2Resist, and the Star Tribe awakening."
 ---
 
