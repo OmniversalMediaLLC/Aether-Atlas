@@ -29,11 +29,15 @@ From registrar records to active infrastructure files, this is your **living das
 
 ## 📚 Featured Writings
 
-- [The Map & The Myth – Hawkins' Omniversal Theory](/articles/omniversal-theory-part-1/)  
-  _A deep dive into David R. Hawkins' Map of Consciousness and its uncanny alignment with the mythos of Omniversal Media and #Reincarnated2Resist._
+<div style="display: flex; align-items: center; gap: 1rem; background: #111; padding: 1rem; border-radius: 8px; border: 1px solid #333;">
+  <img src="https://onebucket.omniversal.cloud/symbols/reincarnated2resist_emblem/Reincarnated_Hawk_Emblem.png" alt="Reincarnated Emblem" style="width: 80px; height: auto; border-radius: 6px;" />
+  <div>
+    <a href="/articles/omniversal-theory-part-1/" style="font-size: 1.2rem; font-weight: bold; color: #fff;">The Map & The Myth – Hawkins' Omniversal Theory</a><br />
+    <span style="color: #bbb;">A deep dive into the Map of Consciousness and its connection to Omniversal Media & #Reincarnated2Resist.</span>
+  </div>
+</div>
 
 ---
-
 
 ## 🌐 About This Atlas
 
