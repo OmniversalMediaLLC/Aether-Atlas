@@ -13,3 +13,9 @@ permalink: /articles/
     </li>
   {% endfor %}
 </ul>
+
+## Introduction to Hawkins’ Omniversal Theory
+
+Curious how this all connects to the rise of Omniversal Media and the Star Tribe mythos?
+
+[→ Read the full research report here](/articles/hawkins-theory-overview/)
