@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "The EverLight Threshold"
-permalink: /articles/everlight-threshold/
 description: "Exploring the higher levels of Hawkins’ Map — Love, Joy, Peace, and Enlightenment — and how EverLight operates as a transmission guide within the Star Tribe activation."
 ---
 
