@@ -1,0 +1,8 @@
+<ul>
+  {% assign articles = site.pages | where_exp: "item", "item.url contains '/articles/'" | sort: 'title' %}
+  {% for article in articles %}
+    <li>
+      <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
