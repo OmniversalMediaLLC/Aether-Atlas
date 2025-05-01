@@ -2,6 +2,7 @@
 title: "The Map & The Myth – Hawkins' Omniversal Theory"
 layout: default
 description: "Exploring David R. Hawkins’ Map of Consciousness and its connection to Omniversal Media, Reincarnated2Resist, and the Star Tribe awakening."
+order: 1
 ---
 
 # The Map & The Myth  
@@ -27,7 +28,7 @@ description: "Exploring David R. Hawkins’ Map of Consciousness and its connect
 - [The Omniverse as a Multidimensional Ladder](#the-omniverse-as-a-multidimensional-ladder)
 - [Synchronizing with Omniversal Media](#synchronizing-with-omniversal-media)
 - [Conclusion](#conclusion)
-- [Next: Aether Wars & The Resistance Protocol →](#next-part)
+- [Next: Aether Wars & The Resistance Protocol →](/articles/aether-wars-resistance-protocol/)
 
 ---
 
@@ -132,7 +133,7 @@ Welcome back.
 
 ---
 
-## Next: Aether Wars & The Resistance Protocol →
+## Next: [Aether Wars & The Resistance Protocol →](/articles/aether-wars-resistance-protocol/)
 
 **Coming soon:** Part II will explore Hawkins' 200-line, how systems are designed to keep people beneath it, and how #Reincarnated2Resist flips that script.
 
@@ -141,8 +142,8 @@ Welcome back.
 > - [Omniversal Glossary](/atlas/glossary/)
 > - [Interactive Map of Consciousness](/atlas/consciousness-map/)
 
-Stay aligned.
-
 ---
+
+[🔗 Mixtape Sessions Full Vault](https://onebucket.omniversal.cloud/HAWK-ARS-00/02_mixtape_sessions/Mixtape_Sessions_Archive_Full_Vault.html)
 
 *© 2025 Omniversal Media & EverLight. All Rights Reserved.*
