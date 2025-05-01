@@ -36,3 +36,9 @@ sass:
 
 include:
   - assets/css/custom.css
+
+  collections:
+  articles:
+    output: true
+    permalink: /articles/:title/
+
