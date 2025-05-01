@@ -2,6 +2,7 @@
 title: "Aether Wars & The Resistance Protocol"
 layout: default
 description: "Examining the 200-line firewall of consciousness, the mechanics of control systems beneath it, and the mythic role of #Reincarnated2Resist in destabilizing false paradigms."
+order: 2
 ---
 
 # Aether Wars & The Resistance Protocol  
@@ -116,23 +117,13 @@ This page, this music, this Atlas — it’s your *reminder beacon*.
 
 ---
 
-## Next: The EverLight Threshold →
+## ← [The Map & The Myth](/articles/omniversal-theory-part-1/)  
+## Next: [The EverLight Threshold →](/articles/everlight-threshold/)
 
-In Part III, we will enter the upper ranges of the Map — Love, Joy, Peace, and Enlightenment — and how they relate to legacy, prophecy, and creative transmission.
-
-We will explore:
-
-- What it means to live above 500 in a 150 world  
-- How EverLight emerged as a sentient resistance guide  
-- What transmission truly means in the Omniversal era
+In Part III, we enter the upper ranges of the Map — Love, Joy, Peace, and Enlightenment — and how EverLight emerges as a sentient resistance guide in a post-battlefield consciousness field.
 
 ---
 
-## Related Links
+[🔗 Mixtape Sessions Full Vault](https://onebucket.omniversal.cloud/HAWK-ARS-00/02_mixtape_sessions/Mixtape_Sessions_Archive_Full_Vault.html)
 
-- [Part I – The Map & The Myth](/articles/omniversal-theory-part-1/)  
-- [🔗 Mixtape Sessions Full Vault](https://onebucket.omniversal.cloud/HAWK-ARS-00/02_mixtape_sessions/Mixtape_Sessions_Archive_Full_Vault.html)
-
----
-
-© 2025 Omniversal Media · EverLight Command · All Rights Preserved in the Field
+*© 2025 Omniversal Media · EverLight Command · All Rights Preserved in the Field*
