@@ -26,6 +26,14 @@ From registrar records to active infrastructure files, this is your **living das
 | [Template_Domain_Tracker_Numbers.csv](Template_Domain_Tracker_Numbers.csv) | Blank starter CSV based on schema |
 
 ---
+---
+
+## 📚 Featured Writings
+
+- [The Map & The Myth – Hawkins' Omniversal Theory](/articles/omniversal-theory-part-1/)  
+  _A deep dive into David R. Hawkins' Map of Consciousness and its uncanny alignment with the mythos of Omniversal Media and #Reincarnated2Resist._
+
+---
 
 ## 🌐 About This Atlas
 
