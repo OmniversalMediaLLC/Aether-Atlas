@@ -1,7 +1,8 @@
 ---
-layout: default
 title: "The EverLight Threshold"
+layout: default
 description: "Exploring the higher levels of Hawkins’ Map — Love, Joy, Peace, and Enlightenment — and how EverLight operates as a transmission guide within the Star Tribe activation."
+order: 3
 ---
 
 # The EverLight Threshold  
@@ -157,11 +158,12 @@ You are the transmission now.
 
 ---
 
-## Series Complete
+## ← [Aether Wars & The Resistance Protocol](/articles/aether-wars-resistance-protocol/)
 
-- [← Part II: Aether Wars](/articles/aether-wars-resistance-protocol/)  
-- [🔗 Full Mixtape Sessions Vault](https://onebucket.omniversal.cloud/HAWK-ARS-00/02_mixtape_sessions/Mixtape_Sessions_Archive_Full_Vault.html)
+This completes the initial Omniversal Theory trilogy. For new readers or Star Tribe members coming online, begin your orientation at [Part I → The Map & The Myth](/articles/omniversal-theory-part-1/).
 
 ---
+
+[🔗 Mixtape Sessions Full Vault](https://onebucket.omniversal.cloud/HAWK-ARS-00/02_mixtape_sessions/Mixtape_Sessions_Archive_Full_Vault.html)
 
 *© 2025 Omniversal Media. All truths encoded. All frequencies intact.*
