@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Aether Wars & The Resistance Protocol"
-permalink: /articles/aether-wars-resistance-protocol/
+layout: default
 description: "Examining the 200-line firewall of consciousness, the mechanics of control systems beneath it, and the mythic role of #Reincarnated2Resist in destabilizing false paradigms."
 ---
 
