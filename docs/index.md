@@ -38,7 +38,10 @@ From registrar records to active infrastructure files, this is your **living das
 </div>
 
 ---
+## 📖 All Articles
 
+{% include articles_list.html %}
+---
 ## 🌐 About This Atlas
 
 This interface was built using:
