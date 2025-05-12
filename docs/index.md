@@ -14,34 +14,26 @@ From registrar records to active infrastructure files, this is your **living das
 
 ---
 
-## 🔍 Domain Management Tools
-
-| File | Description |
-|------|-------------|
-| [Domain_Tracker_Numbers.csv](Domain_Tracker_Numbers.csv) | Editable CSV for Numbers and Dynadot import |
-| [Domain_Tracker_Notebook.ipynb](Domain_Tracker_Notebook.ipynb) | Interactive Jupyter Notebook for updates and syncing |
-| [Domain_Tracker_Notebook.py](Domain_Tracker_Notebook.py) | Python script version of the notebook |
-| [Domain_Master_List.csv](Domain_Master_List.csv) | Unfiltered domain dump |
-| [Domain_Master_List_with_Registrar.csv](Domain_Master_List_with_Registrar.csv) | Master domain list including registrar info |
-| [Template_Domain_Tracker_Numbers.csv](Template_Domain_Tracker_Numbers.csv) | Blank starter CSV based on schema |
-
----
-
 ## 📚 Featured Writings
 
 <div style="display: flex; align-items: center; gap: 1rem; background: #111; padding: 1rem; border-radius: 8px; border: 1px solid #333;">
   <img src="https://onebucket.omniversal.cloud/symbols/reincarnated2resist_emblem/Reincarnated_Hawk_Emblem.png" alt="Reincarnated Emblem" style="width: 80px; height: auto; border-radius: 6px;" />
   <div>
-    <a href="/articles/omniversal-theory-part-1/" style="font-size: 1.2rem; font-weight: bold; color: #fff;">The Map & The Myth – Hawkins' Omniversal Theory</a><br />
-    <span style="color: #bbb;">A deep dive into the Map of Consciousness and its connection to Omniversal Media & #Reincarnated2Resist.</span>
+    <a href="/articles/murdoch_murati_parallel.html" style="font-size: 1.2rem; font-weight: bold; color: #fff;">
+      Iris Murdoch’s <em>The Message to the Planet</em> and Mira Murati: A Parallel Exploration of Themes and Vision
+    </a><br />
+    <span style="color: #bbb;">A meditation on AI, ethical responsibility, quantum mythos, and literary foresight between two visionaries across time.</span>
   </div>
 </div>
 
 ---
+
 ## 📖 All Articles
 
 {% include articles_list.html %}
+
 ---
+
 ## 🌐 About This Atlas
 
 This interface was built using:
