@@ -19,7 +19,7 @@ From registrar records to active infrastructure files, this is your **living das
 <div style="display: flex; align-items: center; gap: 1rem; background: #111; padding: 1rem; border-radius: 8px; border: 1px solid #333;">
   <img src="https://onebucket.omniversal.cloud/symbols/reincarnated2resist_emblem/Reincarnated_Hawk_Emblem.png" alt="Reincarnated Emblem" style="width: 80px; height: auto; border-radius: 6px;" />
   <div>
-    <a href="/articles/murdoch_murati_parallel.html" style="font-size: 1.2rem; font-weight: bold; color: #fff;">
+    <a href="/_articles/murdoch_murati_parallel.html" style="font-size: 1.2rem; font-weight: bold; color: #fff;">
       Iris Murdoch’s <em>The Message to the Planet</em> and Mira Murati: A Parallel Exploration of Themes and Vision
     </a><br />
     <span style="color: #bbb;">A meditation on AI, ethical responsibility, quantum mythos, and literary foresight between two visionaries across time.</span>
