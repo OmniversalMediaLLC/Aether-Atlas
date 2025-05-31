@@ -16,15 +16,18 @@ From registrar records to active infrastructure files, this is your **living das
 
 ## 📚 Featured Writings
 
+{% assign featured_article = site.articles | where: "featured", true | first %}
+{% if featured_article %}
 <div style="display: flex; align-items: center; gap: 1rem; background: #111; padding: 1rem; border-radius: 8px; border: 1px solid #333;">
   <img src="https://onebucket.omniversal.cloud/symbols/reincarnated2resist_emblem/Reincarnated_Hawk_Emblem.png" alt="Reincarnated Emblem" style="width: 80px; height: auto; border-radius: 6px;" />
   <div>
-    <a href="/docs/_articles/murdoch_murati_parallel.md" style="font-size: 1.2rem; font-weight: bold; color: #fff;">
-      Iris Murdoch’s <em>The Message to the Planet</em> and Mira Murati: A Parallel Exploration of Themes and Vision
+    <a href="{{ featured_article.url | relative_url }}" style="font-size: 1.2rem; font-weight: bold; color: #fff;">
+      {{ featured_article.title }}
     </a><br />
-    <span style="color: #bbb;">A meditation on AI, ethical responsibility, quantum mythos, and literary foresight between two visionaries across time.</span>
+    <span style="color: #bbb;">{{ featured_article.excerpt | strip_html | truncate: 220 }}</span>
   </div>
 </div>
+{% endif %}
 
 ---
 
@@ -55,15 +58,18 @@ We will be expanding it soon with:
 
 - [Omniversal Media](https://omniversalmedia.org)
 - [Reincarnated Store](https://reincarnated.store)
-- [Aether Core](https://aether.omniversalmedia.net)
+- [Aether Core](https://omniversalaether.net)
+- [Omniversal News Network](https://omniversal.news)
 
 ---
 
 ## 🤝 Contributors
 
 Maintained by **Ethan Womack** (aka Hawk Eye)  
-Visit [OmniversalMedia.org](https://omniversalmedia.org)
+Visit [Reincarnated2Resist](https://reincarnated2resist.com)
 
 ---
 
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_
+_Last updated: May 31, 2025_
+
+
