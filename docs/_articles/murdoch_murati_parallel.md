@@ -1,5 +1,7 @@
 ---
-title: "Iris Murdoch’s *The Message to the Planet* and Mira Murati: A Parallel Exploration of Themes and Vision"
+title: "Iris Murdoch’s The Message to the Planet and Mira Murati: A Parallel Exploration of Themes and Vision"
+featured: true
+permalink: /articles/murdoch_murati_parallel.html
 date: 2025-05-12
 author: EverLight
 layout: article
