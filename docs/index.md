@@ -12,6 +12,8 @@ This site serves as a central interface for viewing, tracking, and managing our 
 
 From registrar records to active infrastructure files, this is your **living dashboard** into the Dominascriptorum.
 
+[![The Omniversal Sextant](./assets/images/omniversal-sextant.png)](https://atlas.omniversalmedia.info/theomniversalsextant/)
+
 ---
 
 ## 📚 Featured Writings
